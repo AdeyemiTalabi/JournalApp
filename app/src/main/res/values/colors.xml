@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBckgrd">#FFFFFF</color>
+    <color name="colorUsrPwd">#FFECAEA7</color>
+    <color name="colorLogiLightBlue">#b0c8ec</color>
+    <color name="colorLogiBlue">#FF438CFA</color>
+    <color name="colorButton">#6F0000</color>
+
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Journal_App</string>
+    <string name="title">The Journal</string>
+    <string name="member">Already a member? Log In</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="name">Name</string>
+    <string name="password_confirm">Confirm Password</string>
+    <string name="register">Register</string>
+
+    <string name="login">Login</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Fill below form to Sign Up</string>
+    <string name="google_signup">Click here to</string>
+    <string name="google_signin">Enter your Google\'s account</string>
+    <string name="error_message_email">Incorrect input</string>
+    <string name="reg_succeed">Your registration is successful</string>
+
+
+
+
+
+</resources>
